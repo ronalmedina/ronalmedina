@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Soy una programador enfocado al Front**
+🌱 Estudiante actual de Analisis y desarrollo de Software centrado en el apartado de Front sin embargo, conocimientos sobre Backend son conocidos.
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -16,7 +16,7 @@
 
 <hr width="36%" >
 
-<h3>Mis estadisticas</h3>
+<h3>Manejo de programas</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
