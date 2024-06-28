@@ -16,8 +16,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+
 <hr width="60%" >
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
